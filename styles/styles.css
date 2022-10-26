@@ -1,0 +1,19 @@
+*,
+*::after,
+*::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#product {
+    background-color: whitesmoke;
+}
+#contactus{
+    background-color: whitesmoke;
+}
+footer{
+    text-decoration: none;
+}
+ul{
+    text-decoration: none;
+}
